@@ -1,0 +1,17 @@
+body {
+    background-color: #48908C;
+}
+
+body {
+  font-family: Encode Sans;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+.logo {
+ position: absolute;
+ top: 2px;
+ left: 4px;
+ width: 7%;
+}
